@@ -1,16 +1,6 @@
 # Data Analysis with Pandas and Scikit-Learn
 
-This repository contains Python scripts for performing data analysis on a global dataset using Pandas and Scikit-Learn.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Sections](#sections)
-- [Results](#results)
-- [Setup](#setup)
-- [Contributing](#contributing)
-- [License](#license)
+This repository contains Python scripts for performing data analysis on a global dataset.
 
 ## Introduction
 
@@ -36,3 +26,5 @@ pip install pandas scikit-learn matplotlib numpy
 5. **Model Building**: Uses Scikit-Learn to build a decision tree regression model for predicting CO2 emissions.
 
 6. **Model Evaluation**: Evaluates the model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+
+7. **Data Shape and Column Count**: Displays the shape of the dataset and the count of elements per column using Pandas functions.
