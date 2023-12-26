@@ -12,7 +12,7 @@ To run the analysis, execute the provided Jupyter notebook or Python script. Ens
 
 ```bash
 pip install pandas scikit-learn matplotlib numpy
-
+```
 ## Sections
 
 1. **Importing Libraries and Loading Data**: Explains how the necessary libraries are imported, and the dataset is loaded into a Pandas DataFrame.
@@ -27,4 +27,3 @@ pip install pandas scikit-learn matplotlib numpy
 
 6. **Model Evaluation**: Evaluates the model using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 
-7. **Data Shape and Column Count**: Displays the shape of the dataset and the count of elements per column using Pandas functions.
